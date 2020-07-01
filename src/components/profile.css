@@ -1,0 +1,25 @@
+.profile-box{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 40%;
+    margin: auto;
+    padding: 5% 0 5% 5%;
+}
+
+.profile-box .avatar-box{
+    width: 40%;
+    margin: auto;
+
+    
+}
+
+.profile-box .avatar-box img{
+    width: 100%;
+    border-radius: 50%;
+    border: 1vh solid grey;
+}
+
+.profile-box .detail-box{
+    width: 40%;
+}
